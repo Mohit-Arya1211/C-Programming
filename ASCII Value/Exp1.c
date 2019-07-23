@@ -1,7 +1,13 @@
+//Header Files Here:
+
 #include<stdio.h>
 #include<conio.h>
+
+//Main() Function Here:
+
 void main()
 {
+   //Main Code Here:
     int i; char c;
     printf("Enter the integer here : ");
     scanf("\n %d",&i);
