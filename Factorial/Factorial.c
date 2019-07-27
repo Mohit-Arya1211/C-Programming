@@ -1,8 +1,9 @@
+//Header Files Here:
 #include<stdio.h>
 #include<conio.h>
 void main()
 {
-
+//Main Function here:
     int a,i,f;
     f = 1;
     printf("Enter the Number : \n");
@@ -11,6 +12,7 @@ void main()
     {
         f *= i;
     }
+    //Results:
     printf("The factorial is : %d \n", f );
     getch();
 }
